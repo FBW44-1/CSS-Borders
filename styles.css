@@ -4,3 +4,36 @@
     padding: 20px;
     width: 300px;
 }
+h1 {
+ font-weight: bold;
+}
+body{
+    color: black;
+    background-color: #fff;
+}
+.thinsolid{
+    border: solid thin;
+}
+.thindashed{
+    border: thin;
+    border-style: dashed;
+}
+.thindotted{
+    border: thin dotted;
+}
+.thindouble{
+    border: 1px thin;
+    border-style: double;
+}
+.thicksolid{
+    border: solid thick;
+}
+.thickdashed{
+    border: thick dashed;
+}
+.thickdotted{
+    border: thick dotted;
+}
+.thickdouble{
+    border: thick double;
+}
