@@ -4,3 +4,46 @@
     padding: 20px;
     width: 300px;
 }
+
+body{
+    background-color: antiquewhite;
+}
+
+h1{
+    color: black;
+    
+}
+
+.solid{
+    border:solid;
+    
+}
+
+.thin{
+    border: thin dashed;
+}
+
+.dotted{
+    border: dotted;
+    
+}
+
+.double{
+    border: double;
+}
+
+.thicksolid{
+    border: thick solid;
+}
+
+.thickdashed{
+    border: thick dashed;
+}
+
+.thickdotted{
+    border: thick dotted;
+}
+
+.thickdouble{
+    border: thick double;
+}
