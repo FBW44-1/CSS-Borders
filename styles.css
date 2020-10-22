@@ -4,3 +4,23 @@
     padding: 20px;
     width: 300px;
 }
+
+.solid {
+    border: solid black;
+}
+.dashed {
+    border: dashed black;
+}
+.dotted {
+    border: dotted black;
+}
+.double {
+    border: double black;
+}
+
+.thin {
+    border-width: thin;
+}
+.thick {
+    border-width: thick;
+}
