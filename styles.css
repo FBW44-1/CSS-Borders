@@ -1,6 +1,28 @@
 .border-box {
-    background: #eee;
+    background: rgb(238, 227, 227);
     margin: 0 0 20px;
     padding: 20px;
     width: 300px;
+    color: black;
+    border-style: solid;
+    border: solid;
 }
+.dashed {border: dashed;
+color: black;
+background-color: wheat;
+}
+.dotted {border: dotted;
+background-color: white;
+color: black;}
+.double { border: double;
+color: black;
+background-color: burlywood;}
+.thick {border: thick solid;
+color: black;
+background-color: blanchedalmond;}
+.dashed1{border: thick dashed;color: black;
+background-color: blanchedalmond;}
+.dotted1{color: black; border: thick dotted;}
+.double1{border: double thick;color: black;
+background-color: beige;}
+.
